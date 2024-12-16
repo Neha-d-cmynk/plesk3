@@ -5,20 +5,16 @@ repo: plesk3 # The name of this repository
 sites:
   - name: Aexelar
     url: https://aexelar.com
-  - name: Apex Food Service
-    url: https://apexfoodservice.com
-  - name: Apex Food Service
-    url: https://apexfoodservice.com
+  - name: bharat-grocery.com
+    url: https://bharat-grocery.com
   - name: Carolina Heart Center
     url: https://carolinaheartcenter.com
-  - name: Control Infotech
+  - name: Carolina Heart Center
+    url: https://coalitionforcarolinafoundation.org
+  - name: Coalition For Carolinafoundation
     url: https://control-infotech.com
   - name: Drpeds
     url: https://drpeds.com
-  - name: Dynpro
-    url: https://dynpro.in
-  - name: Dynpro India
-    url: https://dynproindia.com
   - name: Forum Kanors Emr
     url: https://forum.kanors-emr.org
   - name: Fresh Indian Market
@@ -27,10 +23,6 @@ sites:
     url: https://harborhat.com
   - name: Helpdesk Kanors Emr
     url: https://helpdesk.kanors-emr.org
-  - name: Institrve
-    url: https://institrve.com
-  - name: Kanlo Net
-    url: https://kanlo.net
   - name: Kanors Emr
     url: https://kanors-emr.org
   - name: Khanna Sons Jewelers
@@ -45,12 +37,6 @@ sites:
     url: https://mymedicalidea.com
   - name: Nazaranc
     url: https://nazaranc.com
-  - name: Patty4 Morrisville
-    url: https://patty4morrisville.com
-  - name: Peoples Medicalcare
-    url: https://peoplesmedicalcare.org
-  - name: Peoples Medicalcare
-    url: https://peoplesmedicalcare.org
   - name: portal Shahand Associatesfp
     url: https://portal.shahandassociatesfp.com
   - name: Serge Tech mechanical
@@ -59,29 +45,25 @@ sites:
     url: https://shahandassociatesfp.com
   - name: Shivji Photography
     url: https://shivji.photography
-  - name: Sizzlinstirfry
-    url: https://sizzlinstirfry.com
-  - name: Sleep Clinic Of Ohio
-    url: https://sleepclinicofohio.com
-  - name: Staging Peoples Medical care
-    url: https://staging.peoplesmedicalcare.org
   - name: Stone Erp
     url: https://stone-erp.com
   - name: Support Kanors Emr
     url: https://support.kanors-emr.org
-  - name: Teampro India
-    url: https://Teamproindia.com
-  - name: Thought Leader Select
-    url: https://thoughtleaderselect.com
-  - name: Tnt Discount
-    url: https://tntdiscount.city
   - name: Veear Projects
     url: https://veearprojects.com
   - name: vital Manage
     url: https://vitalmanage.com
   - name: Wfendo
     url: https://wfendo.com
-
+  - name: zaykauncchapelhill
+    url: https://zaykauncchapelhill.com
+  - name: Pickles and Play
+    url: https://picklesandplay.com
+  - name: Peppernc
+    url: https://peppernc.com
+  - name: crowdsourcingsustainability
+    url: https://crowdsourcingsustainability.org
+ 
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
